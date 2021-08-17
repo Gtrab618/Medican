@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  list-style: none;
+  text-decoration: none;  
+}
+
+/*Cabeza de pagina*/
+
+.cabeza{
+  height: 200px;
+  background: gray;
+}
+
+/*Cuerpo de pagina*/
+.cuerpo{
+  height: 400px;
+  background: green;
+
+}
+
+/*Fondo de pie*/
+
+.imgpie{
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+height: 100%;
+width: 100% ;
+text-align: center;
+
+}

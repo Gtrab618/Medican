@@ -1,0 +1,85 @@
+*{
+	margin: 0;
+	list-style: none;
+	text-decoration: none;	
+}
+
+/* encabezado*/
+header{
+	background: #16a085;
+	height: 200px;
+	position: relative;
+
+}
+
+
+header h2{
+	color: #2c3e50;
+}
+
+header .titulo{
+	text-align: center;
+	font-family: monospace;
+	color: #2c3e50;
+	font-size: 100px;
+}
+
+
+header a{
+	color: black;
+	background: yellow;
+	position: absolute;
+	bottom: 0;
+	font-size: 30px;
+	
+}
+
+/*cuerpo de pagina*/
+
+main{
+	position: relative;
+	height: 460px;
+}
+
+main .tabla{
+	position: absolute;
+	left: 0;
+	height: 100%;
+	width: 15%;
+	background: grey;
+}
+
+
+
+.cuer{
+	position: absolute;
+	background: blueviolet;
+	right: 0;
+	height: 100%;
+	width: 85%;
+}
+
+.imgc{
+	height: 185px;
+	width: 150px;
+	padding: 0px 10px;
+}
+
+h4{
+	padding-bottom: 40px;	
+}
+/*Imagen final */
+
+.contenidof{
+	height: 250px;
+}
+
+.imgf{
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+height: 100%;
+width: 100% ;
+text-align: center;
+}
