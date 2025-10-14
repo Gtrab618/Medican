@@ -1,5 +1,40 @@
-## 👥 Contribuidores
+Astro Starter Kit: Basics
+npm create astro@latest -- --template basics
 
-Gracias a estas personas increíbles:
 
-<a href="https://github.com/KLPaul"><img src="https://avatars.githubusercontent.com/u/1234567?v=4" width="50" height="50" style="border-radius:50%"></a>
+🧑‍🚀 Seasoned astronaut? Delete this file. Have fun!
+
+🚀 Project Structure
+Inside of your Astro project, you'll see the following folders and files:
+
+/
+├── public/
+│   └── favicon.svg
+├── src
+│   ├── assets
+│   │   └── astro.svg
+│   ├── components
+│   │   └── Welcome.astro
+│   ├── layouts
+│   │   └── Layout.astro
+│   └── pages
+│       └── index.astro
+└── package.json
+
+
+To learn more about the folder structure of an Astro project, refer to our guide on project structure.
+
+🧞 Commands
+All commands are run from the root of the project, from a terminal:
+
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| npm install             | Installs dependencies                            |
+| npm run dev             | Starts local dev server at localhost:4321      |
+| npm run build           | Build your production site to ./dist/          |
+| npm run preview         | Preview your build locally, before deploying     |
+| npm run astro ...       | Run CLI commands like astro add, astro check |
+| npm run astro -- --help | Get help using the Astro CLI                     |
+
+👀 Want to learn more?
+Feel free to check our documentation or jump into our Discord server.
