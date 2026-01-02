@@ -1,6 +1,7 @@
-# Medican - Sistema de Gestión Veterinaria
+# Médican - Sistema de Gestión Veterinaria
 
 Este proyecto es un sistema de escritorio para la gestión de una clínica veterinaria, desarrollado en Java utilizando el patrón MVC (Modelo-Vista-Controlador).
+Creado con: Java, PostgreSQL, Swing, FlatLaf, JasperReports.
 
 ## 📄 Licencia y Derechos de Autor
 
